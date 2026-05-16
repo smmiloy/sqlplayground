@@ -1,4 +1,5 @@
 # SQL Playground Questions
+<img width="1366" height="768" alt="Screenshot from 2026-05-16 19-04-09" src="https://github.com/user-attachments/assets/98a9e934-8e96-4b36-b968-daddb2624ea1" />
 
 [![GitHub stars](https://img.shields.io/github/stars/smmiloy/sqlplayground)](https://github.com/smmiloy/sqlplayground)
 [![GitHub issues](https://img.shields.io/github/issues/smmiloy/sqlplayground)](https://github.com/smmiloy/sqlplayground/issues)
